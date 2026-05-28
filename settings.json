@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Randodrop4-fl0N.aternos.me:16900",
+    "port": 16900,
     "version": "",
     "try-creative": false
   },
